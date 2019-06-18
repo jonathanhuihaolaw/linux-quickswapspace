@@ -27,3 +27,4 @@ else
 fi
 
 sudo swapon --show
+sudo rm -f create-swap.sh
